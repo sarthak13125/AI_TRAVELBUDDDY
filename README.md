@@ -107,7 +107,7 @@ https://github.com/Tharun9092
 <img width="1913" height="918" alt="image" src="https://github.com/user-attachments/assets/d30e361c-1c68-4539-9cfe-fe56d565ea58" />
 
 # 🏞️ QUICK QUESTIONS
-<img width="1919" height="848" alt="Screenshot 2025-07-31 144744" src="https://github.com/user-attachments/assets/4967b824-a705-4b4f-83f0-187daff678aa" />
+<img width="1911" height="919" alt="image" src="https://github.com/user-attachments/assets/e1804942-ca5c-4c59-9311-336f62d8ab09" />
 
 # 🏞️ AGENT INSTRUCTIONS
 <img width="1919" height="867" alt="Screenshot 2025-07-31 144709" src="https://github.com/user-attachments/assets/7f0e1860-c072-4c4d-b127-f3b2f61136cc" />
