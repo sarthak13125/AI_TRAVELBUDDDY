@@ -34,11 +34,15 @@ This intelligent travel assistant, built with IBM Granite and IBM Cloud, transfo
 
 Key Features:
 
--🔄 Real-Time Itinerary Updates: Adjusts plans instantly based on weather and travel delays.
--🧠 AI-Driven Personalization: Uses IBM Granite to understand user input and recommend destinations, routes, and stays.
--🌐 Integrated Live Data: Combines weather, maps, and event data for smarter planning.
--💬 Conversational Experience: Chat-based planning with natural language understanding.
--⚙️ Serverless Efficiency: Powered by IBM Cloud Functions for fast, scalable performance.
+🔄 Real-Time Itinerary Updates: Adjusts plans instantly based on weather and travel delays.
+
+🧠 AI-Driven Personalization: Uses IBM Granite to understand user input and recommend destinations, routes, and stays.
+
+🌐 Integrated Live Data: Combines weather, maps, and event data for smarter planning.
+
+💬 Conversational Experience: Chat-based planning with natural language understanding.
+
+⚙️ Serverless Efficiency: Powered by IBM Cloud Functions for fast, scalable performance.
 
 # 👥 END USERS
 
