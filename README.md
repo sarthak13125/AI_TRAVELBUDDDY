@@ -57,7 +57,7 @@ Unique features:
 
 # 🚀 DEPLOYMENT & PREVIEW
 
-<img width="1916" height="869" alt="Deployment   Preview" src="https://github.com/sarthak13125/AI_TRAVELBUDDDY/blob/main/Screenshot%202025-08-04%20105335.png?raw=true" />
+<img width="1912" height="918" alt="image" src="https://github.com/user-attachments/assets/204ebcc8-7416-43ca-9f28-69e21ff3e6c0" />
 
 # 🎯 RESULTS
 
