@@ -53,8 +53,7 @@ Unique features:
 
 # 🌐 API REFERENCE AFTER DEPLOYMENT
 
-<img width="1915" height="848" alt="API Reference After Deployment" src="https:/<img width="1914" height="921" alt="image" src="https://github.com/user-attachments/assets/26a96bd6-0295-4863-9c4a-2823e32183af" />
-" />
+<img width="1914" height="921" alt="image" src="https://github.com/user-attachments/assets/26a96bd6-0295-4863-9c4a-2823e32183af" />
 
 # 🚀 DEPLOYMENT & PREVIEW
 
