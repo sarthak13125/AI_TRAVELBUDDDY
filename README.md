@@ -61,7 +61,8 @@ Unique features:
 
 # 🎯 RESULTS
 
-<img width="919" height="868" alt="Results" src="https://github.com/user-attachments/assets/995efe8f-698e-4ea3-a38c-516c0b23c506" />
+<img width="1905" height="897" alt="image" src="https://github.com/user-attachments/assets/d37ec514-f5e3-4cc4-9570-d5f7a8965e0b" />
+
 
 # 👉 CONCLUSION 
 
@@ -87,10 +88,12 @@ https://github.com/Tharun9092
 # ✅️ IBM CERTIFICATIONS
 
 # GETTING STARTED WITH AI CERTIFICATE
-![Getting Started with Artificial Intelligence_page-0001](https://github.com/user-attachments/assets/7265bf05-5918-4f6c-a1e8-900577f42bf6)
+![Getting Started with Artificial Intelligence_page-0001](<img width="1165" height="902" alt="image" src="https://github.com/user-attachments/assets/a8493e28-5fb8-4478-81d7-e65e127f3708") />
+
 
 # JOURNEY TO CLOUD CERTIFICATE
-![Journey to Cloud Envisioning Your Solution_page-0001](https://github.com/user-attachments/assets/bd2fea3d-e071-44ac-a32c-2278b74a0bdb)
+![Journey to Cloud Envisioning Your Solution_page-0001](<img width="1079" height="838" alt="image" src="https://github.com/user-attachments/assets/56293724-1f9f-4f67-ab90-9910c9457a23")/>
+
 
 
 
