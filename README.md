@@ -6,13 +6,8 @@ An AI-driven travel assistant powered by IBM Cloud Lite and IBM Granite, designe
 
 # 🧩 PROBLEM STATEMENT
 
-Design and develop an AI-powered Travel Planner Agent that :
-Plans trips based on user preferences
-Suggests destinations, builds itineraries
-Recommends transport and accommodations
-Uses real-time data (weather, maps, events)
-Manages bookings and alerts
-Optimizes schedules dynamically
+Planning a trip involves multiple complex tasks, such as selecting destinations, creating itineraries, booking transport and accommodation, and adapting plans based on real-time factors like weather or events. Travelers often struggle to efficiently manage these elements while staying within budget and preferences. There is a need for an intelligent, AI-powered solution that can automate and personalize the travel planning process—offering real-time recommendations, dynamic scheduling, and end-to-end assistance to enhance the overall travel experience.
+
 
 # 🧠 TECHNOLOGIES USED
 
