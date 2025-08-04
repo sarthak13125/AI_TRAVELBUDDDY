@@ -53,7 +53,7 @@ Unique features:
 
 # 🌐 API REFERENCE AFTER DEPLOYMENT
 
-<img width="1915" height="848" alt="API Reference After Deployment" src="https://github.com/user-attachments/assets/ecba1b1e-6a98-454d-a56d-0cdca91c10da" />
+<img width="1915" height="848" alt="API Reference After Deployment" src="https://raw.githubusercontent.com/sarthak13125/AI_TRAVELBUDDDY/refs/heads/main/Screenshot%202025-08-04%20105239.png" />
 
 # 🚀 DEPLOYMENT & PREVIEW
 
