@@ -67,10 +67,7 @@ Key Features:
 
 # 👉 CONCLUSION 
 
-- The Travel Planner Agent significantly reduces the complexity of planning a trip.
-- By leveraging IBM Cloud AI services, the agent delivers real-time, personalized, and adaptive travel solutions, helping users enjoy a well-organized journey.
-- It shows the practical application of AI in solving real-life logistical challenges while keeping the experience user-friendly and efficient.
-
+The AI-powered Travel Planner Agent streamlines the often complex and time-consuming task of trip planning. By harnessing the capabilities of IBM Cloud and AI services, it delivers personalized, real-time, and adaptive travel solutions that enhance the overall travel experience. This project not only demonstrates the practical use of AI in addressing real-world logistical challenges but also ensures a seamless, user-friendly, and efficient approach to modern travel planning.
 # <img width="27" height="25" alt="image" src="https://github.com/user-attachments/assets/b0953de5-baca-4c57-8b47-50821f26448e" /> GITHUB LINK
 
 https://github.com/sarthak13125
