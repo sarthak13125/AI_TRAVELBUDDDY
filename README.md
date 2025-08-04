@@ -29,15 +29,15 @@ Planning a trip involves multiple complex tasks, such as selecting destinations,
 
 # 😮 WOW FACTORS
 
-The Travel Planner Agent offers impressive features such as real-time itinerary updates based on weather conditions and travel delays, ensuring a smooth journey. It uses IBM Granite’s advanced AI to understand user inputs and deliver highly personalized travel plans. The agent intelligently recommends destinations and routes tailored to user interests, budgets, and constraints. Seamless integration across IBM Cloud services enables a natural, conversational experience that simplifies complex travel planning into an effortless task.
+AI-Powered Travel Planner Agent
+This intelligent travel assistant, built with IBM Granite and IBM Cloud, transforms complex trip planning into a seamless, personalized experience. It understands natural language, adapts in real time, and delivers tailored suggestions based on user preferences, budget, and travel constraints—all through an intuitive chat interface powered by Watson Assistant.
 
-Unique features:
-- Real-time itinerary adjustment based on live weather and travel updates
-- Natural language understanding using IBM Granite for personalized suggestions
-- Tailored recommendations based on user interests, budget, and trip duration
-- Smart integration of maps, weather, and booking data for seamless planning
-- Chat-based interactive experience powered by Watson Assistant
-- Serverless backend logic using IBM Cloud Functions for efficiency
+Key Features:
+-🔄 Real-Time Itinerary Updates: Adjusts plans instantly based on weather and travel delays.
+-🧠 AI-Driven Personalization: Uses IBM Granite to understand user input and recommend destinations, routes, and stays.
+-🌐 Integrated Live Data: Combines weather, maps, and event data for smarter planning.
+-💬 Conversational Experience: Chat-based planning with natural language understanding.
+-⚙️ Serverless Efficiency: Powered by IBM Cloud Functions for fast, scalable performance.
 
 # 👥 END USERS
 
