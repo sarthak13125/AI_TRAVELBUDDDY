@@ -33,6 +33,7 @@ AI-Powered Travel Planner Agent
 This intelligent travel assistant, built with IBM Granite and IBM Cloud, transforms complex trip planning into a seamless, personalized experience. It understands natural language, adapts in real time, and delivers tailored suggestions based on user preferences, budget, and travel constraints—all through an intuitive chat interface powered by Watson Assistant.
 
 Key Features:
+
 -🔄 Real-Time Itinerary Updates: Adjusts plans instantly based on weather and travel delays.
 -🧠 AI-Driven Personalization: Uses IBM Granite to understand user input and recommend destinations, routes, and stays.
 -🌐 Integrated Live Data: Combines weather, maps, and event data for smarter planning.
