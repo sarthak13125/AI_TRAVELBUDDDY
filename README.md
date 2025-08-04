@@ -110,8 +110,7 @@ https://github.com/Tharun9092
 <img width="1911" height="919" alt="image" src="https://github.com/user-attachments/assets/e1804942-ca5c-4c59-9311-336f62d8ab09" />
 
 # 🏞️ AGENT INSTRUCTIONS
-<img width="1919" height="867" alt="Screenshot 2025-07-31 144709" src="https://github.com/user-attachments/assets/7f0e1860-c072-4c4d-b127-f3b2f61136cc" />
-
+<img width="1919" height="923" alt="image" src="https://github.com/user-attachments/assets/e47dcc7e-ef27-4364-aac1-039fc9a7f147" />
 
 # <img width="30" height="25" alt="image" src="https://github.com/user-attachments/assets/f4d40696-5161-4447-acbb-3fc10668648d" /> LINKED IN 
 
