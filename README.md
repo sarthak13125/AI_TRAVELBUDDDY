@@ -101,7 +101,7 @@ https://github.com/Tharun9092
 # 📷 SCREENSHOTS
 
 # 🏞️ RESOURCES
-<img width="1916" height="861" alt="Screenshot 2025-07-31 145114" src="https://github.com/user-attachments/assets/f83d3e33-cd9d-4ccc-82ec-4bdf4e1d6eef" />
+<img width="1323" height="610" alt="image" src="https://github.com/user-attachments/assets/4c7957cf-bbdb-47e6-b3c6-6868db75e0be" />
 
 # 🏞️ TOOLS
 <img width="1919" height="863" alt="Screenshot 2025-07-31 144827" src="https://github.com/user-attachments/assets/eda40bc2-a3ba-472c-a154-68f1f0276d28" />
