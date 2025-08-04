@@ -93,7 +93,7 @@ https://github.com/Tharun9092
 
 
 # JOURNEY TO CLOUD CERTIFICATE
-(<img width="1079" height="838" alt="image" src="https://github.com/user-attachments/assets/56293724-1f9f-4f67-ab90-9910c9457a23")/>
+<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/792244ab-9100-40f9-8ade-fb780f695ab6" />
 
 
 
