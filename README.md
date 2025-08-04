@@ -88,11 +88,11 @@ https://github.com/Tharun9092
 # ✅️ IBM CERTIFICATIONS
 
 # GETTING STARTED WITH AI CERTIFICATE
-![Getting Started with Artificial Intelligence_page-0001](<img width="1165" height="902" alt="image" src="https://github.com/user-attachments/assets/a8493e28-5fb8-4478-81d7-e65e127f3708") />
+(<img width="1165" height="902" alt="image" src="https://github.com/user-attachments/assets/a8493e28-5fb8-4478-81d7-e65e127f3708") />
 
 
 # JOURNEY TO CLOUD CERTIFICATE
-![Journey to Cloud Envisioning Your Solution_page-0001](<img width="1079" height="838" alt="image" src="https://github.com/user-attachments/assets/56293724-1f9f-4f67-ab90-9910c9457a23")/>
+(<img width="1079" height="838" alt="image" src="https://github.com/user-attachments/assets/56293724-1f9f-4f67-ab90-9910c9457a23")/>
 
 
 
