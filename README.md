@@ -115,7 +115,7 @@ https://github.com/Tharun9092
 
 # <img width="30" height="25" alt="image" src="https://github.com/user-attachments/assets/f4d40696-5161-4447-acbb-3fc10668648d" /> LINKED IN 
 
-Connect me through linked in : https://www.linkedin.com/in/tharun-kumar-reddy-6941a22a6/
+Connect me through linked in :www.linkedin.com/in/sarthak-tekawade-2a091233b
 
 # 🙏 THANK YOU
 
