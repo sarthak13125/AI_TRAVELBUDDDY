@@ -77,14 +77,32 @@ https://github.com/sarthak13125
 
 # 🪩 FUTURE SCOPE
 
-- Voice Assistant Integration (Alexa, Siri, etc.)
-- Multilingual Travel Support with Watson Language Translator
-- Integration with Booking Platforms (e.g., Skyscanner, Airbnb)
-- Emergency Support Services (based on location & alerts)
-- Offline Mode Access for remote areas with low connectivity
-- AR-Based Virtual Destination Previews
-- AI Budget Optimizer to fit best experience under a user’s budget
-- Travel Community Features – recommendations from other users
+🪩 Future Scope
+The AI Travel Planner Agent is designed for continuous innovation and future-ready features that elevate user experience even further:
+
+🎙️ Voice Assistant Integration
+Support for Alexa, Siri, and Google Assistant for hands-free planning and updates.
+
+🌍 Multilingual Travel Support
+Powered by Watson Language Translator to assist users in multiple languages.
+
+🏨 Booking Platform Integration
+Seamless connection with platforms like Skyscanner, Airbnb, and Expedia for direct reservations.
+
+🚨 Emergency Support Services
+Location-based alerts and assistance for safety and travel disruptions.
+
+📶 Offline Mode Access
+Enable itinerary access and basic features in remote or low-connectivity areas.
+
+🗺️ AR-Based Virtual Destination Previews
+Augmented Reality previews of destinations to help users explore before they travel.
+
+💰 AI Budget Optimizer
+Smart planning engine that suggests the best possible experiences within a set budget.
+
+👥 Travel Community Features
+User-generated tips, reviews, and itineraries to enhance planning with peer insights.
 
 # ✅️ IBM CERTIFICATIONS
 
